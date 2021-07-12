@@ -7,9 +7,11 @@
 На тестирование затрачено: 00:30 ч.
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/cromax-max/KeyValidator/issues/1#issue-941230929
-* https://github.com/cromax-max/KeyValidator/issues/2#issue-941231873
-* https://github.com/cromax-max/KeyValidator/issues/3#issue-941232446
+* Результат FAIL при вводе валидного ключа
+  https://github.com/cromax-max/KeyValidator/issues/1#issue-941230929
+* Результат OK при вводе невалидного ключа
+  https://github.com/cromax-max/KeyValidator/issues/2#issue-941231873
+
 
 ## Описание процесса тестирования
 
